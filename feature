@@ -1,1 +1,1 @@
-conflict two
+conflict one
